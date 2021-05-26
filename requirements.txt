@@ -1,0 +1,9 @@
+mediapipe==0.8.4.2
+numpy==1.18.4
+oauthlib==3.1.0
+opencv-contrib-python==4.5.2.52
+opencv-python==4.2.0.34
+osascript==2020.12.3
+pandas==1.0.3
+
+
